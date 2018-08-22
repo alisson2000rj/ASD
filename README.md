@@ -1,2 +1,2 @@
 # ASD
-Repositório da Cadeira de Arquitetura de Software 
+Repositorio da Cadeira de Arquitetura de Software Distribuído do Mestrado de Eng. Eletrônica - UERJ
