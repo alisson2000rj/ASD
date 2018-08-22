@@ -1,0 +1,11 @@
+ethtool --show-offload ens33
+
+ethtool -K ens33 tso on
+ethtool -K ens33 gso on
+ethtool -K ens33 gro on
+
+ethtool -K ens33 tso off
+ethtool -K ens33 gso off
+ethtool -K ens33 gro off
+
+
